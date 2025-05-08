@@ -23,7 +23,7 @@ Prerequisites
 Node.js (v18+)
 npm or bun
 Installation
-git clone https://github.com/VivekS51/mission-sindoor-v1.git
+git clone https://github.com/VEDANTraj9/Mission-Sindoor-v1.git
 cd mission-sindoor
 npm install
 Running Locally
